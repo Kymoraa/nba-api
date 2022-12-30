@@ -7,4 +7,4 @@ A new Flutter project.
 This project is based on a tutorial by Mitch Koko<br>
 Link to the YT tutorial: https://www.youtube.com/watch?v=MlvqmRXKXyo&ab_channel=MitchKoko<br>
 
-Link to API: 
+Link to API: https://www.balldontlie.io/#getting-started
